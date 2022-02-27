@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="greedy.UntilOneTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-27T04:18:54" hostname="allonsy-MacBookPro.local" time="0.057">
-  <properties/>
-  <testcase name="solution2()" classname="greedy.UntilOneTest" time="0.057"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
